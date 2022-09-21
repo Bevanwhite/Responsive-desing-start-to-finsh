@@ -1,0 +1,25 @@
+# Created by https://www.toptal.com/developers/gitignore/api/archlinuxpackages,sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=archlinuxpackages,sass
+
+### ArchLinuxPackages ###
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# End of https://www.toptal.com/developers/gitignore/api/archlinuxpackages,sass
